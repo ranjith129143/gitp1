@@ -2,13 +2,13 @@
     <head>
         <title>My Awesome Page</title>
         <script type="text/javascript" charset="utf-8"> 1
-            function sayHello() { 2
+            function sayHellousha() { 2
                 document.getElementById('foo').innerHTML = 'Hi there!'; 3
             } 4
         </script> 5
-    </head>
-    <body>
+    
         <h1 id="foo" onclick="sayHellousha()">Click me!</h1>6
+
     </body>
 </html>
 
