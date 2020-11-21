@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>My Awesome Page</title>
+        <title>My trail Page</title>
         <script type="text/javascript" charset="utf-8"> 1
             function sayHellousha() { 2
                 document.getElementById('foo').innerHTML = 'Hi there!'; 3
